@@ -1,0 +1,3 @@
+[submodule "racha_conta"]
+	path = racha_conta
+	url = https://github.com/ThiagoHN/racha_conta
