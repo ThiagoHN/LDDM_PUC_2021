@@ -1,3 +1,6 @@
 [submodule "racha_conta"]
 	path = racha_conta
 	url = https://github.com/ThiagoHN/racha_conta
+[submodule "edu_duca"]
+	path = edu_duca
+	url = https://github.com/ThiagoHN/edu_duca
