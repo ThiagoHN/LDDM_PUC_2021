@@ -3,3 +3,4 @@ Repositório com o intuito de guardar todos os trabalhos propostos pela discipli
 
 ## Trabalhos Realizados
 - [x] Prática 01 - Racha Conta
+- [x] Prática 02 - App Educativo
